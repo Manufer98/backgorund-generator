@@ -1,3 +1,3 @@
 # backgorund-generator
 
-Css Project 
+Css and Js Project 
